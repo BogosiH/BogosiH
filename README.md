@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BogosiH
+- 💻 I'm in my final year of studying Computer Science and Software Engineering.
 - 👀 I’m interested in fun and challenging projects 
 - 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on any project that can help me grow
